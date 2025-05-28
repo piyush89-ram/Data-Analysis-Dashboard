@@ -36,4 +36,4 @@ workforce, their performance, and overall productivity.
 
 
 
-[screenshot.pdf](https://github.com/user-attachments/files/20484435/screenshot.pdf)
+![screenshot.pdf](https://github.com/user-attachments/files/20484435/screenshot.pdf)
