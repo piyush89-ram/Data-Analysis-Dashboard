@@ -23,4 +23,4 @@ workforce, their performance, and overall productivity.
 8) How many employees are there in each department and gender in the dataset?
 
 ## Dashboard Interaction:
-- <a href="https://github.com/piyush89-ram/Data-Analysis-Dashboard/blob/main/Screenshot.pdf ">View Dashboard<a/>
+- <a href="https://github.com/piyush89-ram/Data-Analysis-Dashboard/blob/main/screenshot.pdf ">View Dashboard<a/>
