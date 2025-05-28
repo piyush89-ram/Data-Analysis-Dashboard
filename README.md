@@ -33,6 +33,14 @@ workforce, their performance, and overall productivity.
 5) Creating Dashboard
 
 ## Dashboard
-
 ![screenshot](https://github.com/user-attachments/assets/700cd562-95cc-4752-a824-f8b21c649fec)
 
+## Project Insight:
+1) Count of employee id is 38.
+2) Average Salary of employee is 8.17k.
+3) Total count of department is 11.
+4) Sum of salary by junior is more than fresher.
+5) Sum of salary by age 38 is more than other
+
+## Final Conclusion:
+This project highlights how Power BI can transform raw HR data into insightful, actionable visualizations. By integrating data cleaning, modeling, and interactive visual storytelling, this project reinforces Power BI’s capabilities in business intelligence and strategic decision-making. The use of conditional logic, time functions, and multi-chart visuals enhances data accessibility and comprehension for all users.
