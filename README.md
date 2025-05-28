@@ -31,3 +31,6 @@ workforce, their performance, and overall productivity.
 3) Data view
 4) Visiual insight
 5) Creating Dashboard
+
+## Dashboard
+![Screenshot](https://github.com/piyush89-ram/Data-Analysis-Dashboard/blob/main/Screenshot.pdf )
