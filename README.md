@@ -24,3 +24,10 @@ workforce, their performance, and overall productivity.
 
 ## Dashboard Interaction:
 - <a href="https://github.com/piyush89-ram/Data-Analysis-Dashboard/blob/main/screenshot.pdf ">View Dashboard<a/>
+
+## Process:
+1) Installation Power BI
+2) Data cleaning
+3) Data view
+4) Visiual insight
+5) Creating Dashboard
