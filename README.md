@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-UniqueSystem  is a company with employees whose details are stored in the given dataset. We can clean and analyze the data and creating the dashboard.
+Unique-Comapny-HR-Analysis (Interactive Dashboard using PowerBI)
+Project Objective:
+Employee Details dataset contains information
+such as employee ID, name,position, salary, and attendance.
+This information can be used to gain insights into the company's
+workforce, their performance, and overall productivity.
