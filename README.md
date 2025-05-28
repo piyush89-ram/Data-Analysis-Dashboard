@@ -34,6 +34,5 @@ workforce, their performance, and overall productivity.
 
 ## Dashboard
 
+![screenshot](https://github.com/user-attachments/assets/700cd562-95cc-4752-a824-f8b21c649fec)
 
-
-![screenshot.pdf](https://github.com/user-attachments/files/20484435/screenshot.pdf)
