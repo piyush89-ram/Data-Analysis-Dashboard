@@ -21,3 +21,6 @@ workforce, their performance, and overall productivity.
 6) What is the salary and department of each employee in the dataset?
 7) How does the total attendance vary with year and gender in the dataset?
 8) How many employees are there in each department and gender in the dataset?
+
+## Dashboard Interaction:
+- <a href="https://github.com/piyush89-ram/Data-Analysis-Dashboard/blob/main/Screenshot.pdf ">View Dashboard<a/>
